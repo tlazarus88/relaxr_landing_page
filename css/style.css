@@ -1,0 +1,13 @@
+/*
+Project Name: Relaxr Landing Page
+Author: Your Name
+Front End Developer @GA in NYC
+*/
+
+/* Box Model Hack */
+* {
+  -moz-box-sizing: border-box; /* Firexfox */
+  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+  box-sizing: border-box; /* IE */
+}
+
